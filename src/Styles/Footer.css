@@ -1,0 +1,76 @@
+footer {
+    margin-top: 40px; 
+    background-color: #f9f9f9;
+    padding: 20px;
+    text-align: center;
+    border-top: 1px solid #e0e0e0;
+}
+
+.footer-message {
+    margin-bottom: 20px;
+    color: #263342;
+    font-weight: 600;
+}
+
+.footer-input {
+    margin: 10px 5px;
+    padding: 8px;
+    width: 60%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    color: #718396;
+}
+
+.footer-send-button {
+    padding: 8px 15px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.footer-send-button:hover {
+    background-color: #45a049;
+}
+
+.follow{
+    color: #d10f0f;
+    font-weight: 600;
+}
+
+.footer-links ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.footer-links li {
+    display: inline-block;
+}
+
+.footer-links a {
+    text-decoration: none;
+    color: #263342;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.footer-links a:hover {
+    color: #263342;
+}
+
+.thanks-greet{
+    color: #4CAF50;
+    font-style: italic;
+}
+
+.pi-face-smile{
+    font-size: 20px;
+    vertical-align: middle;
+    color: #263342;
+}
