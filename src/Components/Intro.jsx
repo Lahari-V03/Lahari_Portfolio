@@ -5,7 +5,7 @@ function Intro() {
     return (
         <>
         <div className="image-container">
-            <img src="/pic.jpg" alt="Picture / Logo" />
+            <img src="/pic.JPG" alt="Picture / Logo" />
         </div >
             <div className='intro-container'>
                 <span className='greeting-head'>Hi! My name is Lahari Vuppalapati </span>

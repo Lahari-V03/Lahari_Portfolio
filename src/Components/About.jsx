@@ -22,7 +22,7 @@ function About() {
             </div>
             <button className="resume-button">
                 <a
-                    href="/Lahari_Vuppalapati_Resume.pdf"
+                    href="/Lahari_Vuppalapati_Resume.PDF"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="resume-link"
